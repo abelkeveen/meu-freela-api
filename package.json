@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/abelkeveen/meu-freela-api/issues"
   },
-  "homepage": "https://github.com/abelkeveen/meu-freela-api#readme"
+  "homepage": "https://github.com/abelkeveen/meu-freela-api#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "swagger-ui-express": "^5.0.1"
+  }
 }
